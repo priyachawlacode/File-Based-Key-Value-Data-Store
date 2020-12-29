@@ -6,7 +6,7 @@
 import threading
 import time
 import mainfile as operation 
-#importing the main file("code" is the name of the file I have used) as a library 
+#importing the main file("mainfile" is the name of the file I have used) as a library 
 
 
 operation.create("A",1)
