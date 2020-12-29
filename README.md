@@ -10,6 +10,9 @@ Read and Delete operation can be performed by providing the key.
 Keys can support Time to Live property when it is created based on user's choice. Once time-to-live for a key expires, no further operations can be performed on that.
 All the expected error response are returned.
 
-NON-FUNCTIONAL REQUIREMENTS
+NON-FUNCTIONAL REQUIREMENTS:
 The size of file storing data never exceeds 1 GB.
 Threading operations are allowed.
+
+MAINFILE.PY contains the code
+RUN.PY contains all the executable commands.
